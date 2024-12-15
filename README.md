@@ -1,4 +1,6 @@
 # Santa-Hacker
+![Sample Image](images/sample-image.png)
+
  Hacking Santa's pc gag for kids
 
  How to use:
