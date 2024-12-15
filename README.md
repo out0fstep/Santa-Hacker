@@ -13,7 +13,7 @@ It allows a single child or more then simulates hacking santa!
 
 After hacking you finally get a simulated ssh connection to Santa!
 
-![Sample Image] ()
+![Sample Image] (https://github.com/out0fstep/Santa-Hacker/blob/main/santa%20prompt.png)
 
 run "dir" to see what santa has on his computer and discover his Naughty and Nice lista, and verify it's santa viewing his pictures!
 Commands:
@@ -22,5 +22,5 @@ Naughty list
 Nice List
 Pictures
 
-![Sample Image] ()
+![Sample Image] (https://github.com/out0fstep/Santa-Hacker/blob/main/dir.png)
 
