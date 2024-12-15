@@ -1,5 +1,5 @@
 # Santa-Hacker
-![]([images/sample-image.png](https://github.com/out0fstep/Santa-Hacker/blob/main/santa%20hacker.png))
+![Sample Image]([images/sample-image.png](https://github.com/out0fstep/Santa-Hacker/blob/main/santa%20hacker.png))
 
  Hacking Santa's pc gag for kids
 
