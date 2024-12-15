@@ -15,7 +15,8 @@ After hacking you finally get a simulated ssh connection to Santa!
 
 ![Sample Image](https://github.com/out0fstep/Santa-Hacker/blob/main/santa%20prompt.png)
 
-run "dir" to see what santa has on his computer and discover his Naughty and Nice lists, and verify it's santa viewing his pictures!
+run "dir" to see what santa has on his computer and discover his Naughty and Nice lists, and verify it's santa's pc by viewing his pictures!
+
 Commands:
 dir,
 Naughty list,
